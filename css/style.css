@@ -1,0 +1,42 @@
+/*
+Theme Name: first-theme
+Author:     Nigesh
+Description:Basic Wordpress Theme
+Template : first-theme
+
+
+*/
+
+.custom_menu_class ul {
+
+    list-style-type: none;
+    list-style: none;
+    list-style-image: none;
+}
+.custom_menu_class li {
+    padding: 10px;
+    display: inline;
+}
+div.custom_menu_class {
+	margin-left: 45px;
+
+}
+
+div.head {
+	margin-left: 100px;
+}
+
+div.sidebar {
+	float: right;
+	margin-right: 10px;
+}
+div.footer-sidebar {
+	margin-left: 40px.
+}
+.footer-2 {
+	text-align: center;
+}
+.sidebar {
+	list-style-type: none;
+	margin-right: 20px;
+}
